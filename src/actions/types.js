@@ -1,0 +1,5 @@
+export const FETCH_TALENTS = 'FETCH_TALENTS';
+export const FETCH_TALENT = 'FETCH_TALENT';
+export const REMOVE_TALENT = 'REMOVE_TALENT';
+export const UPDATE_TALENT = 'UPDATE_TALENT';
+export const NEW_TALENT = 'NEW_TALENT';
